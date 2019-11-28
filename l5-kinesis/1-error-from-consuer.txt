@@ -1,0 +1,8 @@
+
+After calling producer, and succesfully uploading streams, getting this message from consumer
+
+    No new records have arrived
+
+
+unable to get consumer ata and save to df
+
